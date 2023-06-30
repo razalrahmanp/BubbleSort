@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\bin\Debug\net7.0\BubbleSort.exe
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\bin\Debug\net7.0\BubbleSort.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\bin\Debug\net7.0\BubbleSort.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\bin\Debug\net7.0\BubbleSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\bin\Debug\net7.0\BubbleSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\refint\BubbleSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\BubbleSort.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\BubbleSort\obj\Debug\net7.0\ref\BubbleSort.dll
